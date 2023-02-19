@@ -1,5 +1,5 @@
 # Data-Analysis-of-world-Happiness-2019
-The goal of this tutorial is to give a knowledge about Data Science to new beginners.
+The goal of this project is to share knowledge of data science to beginners.
 
 # 1.Introduction to Python
 
